@@ -1,4 +1,4 @@
-FROM sylvainlasnier:ubuntu:latest
+FROM sylvainlasnier/ubuntu
 MAINTAINER Sylvain Lasnier <sylvain.lasnier@gmail.com>
 
 # Install packages
